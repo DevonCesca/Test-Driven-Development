@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89c89422-f747-4aeb-9602-cc15e70fb3ca" name="Default Changelist" comment="" />
+    <list default="true" id="89c89422-f747-4aeb-9602-cc15e70fb3ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tdd-python-dash/Invoice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tdd-python-dash/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tdd-python-dash/TestNameFrequency.py" beforeDir="false" afterPath="$PROJECT_DIR$/tdd-python-dash/TestNameFrequency.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tdd-python-dash" />
   </component>
   <component name="ProjectId" id="206k0EcuWD9XVxJdIIAqDnS6wgN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
